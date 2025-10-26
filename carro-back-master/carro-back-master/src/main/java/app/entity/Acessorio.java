@@ -24,6 +24,7 @@ public class Acessorio {
 	@NotBlank(message = "Nome do acessório é obrigatório")
 	private String nome;
 	
+	
 	private String descricao;
 
 }
